@@ -55,7 +55,8 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sathish1504&theme=onedark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sathish1504&theme=tokyonight&row=2&column=3)
+
 
 ---
 
